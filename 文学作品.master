@@ -3,8 +3,8 @@
 <html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
 
 <head runat="server">
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<title>文学作品</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>锟斤拷学锟斤拷品</title>
 <asp:ContentPlaceHolder id="head" runat="server">
 </asp:ContentPlaceHolder>
 <style type="text/css">
@@ -17,11 +17,11 @@
 }
 .style3 {
 	font-size: xx-large;
-	font-family: 黑体;
+	font-family: 锟斤拷锟斤拷;
 }
 .style4 {
 	font-size: large;
-	font-family: 华文楷体;
+	font-family: 锟斤拷锟侥匡拷锟斤拷;
 }
 </style>
 </head>
