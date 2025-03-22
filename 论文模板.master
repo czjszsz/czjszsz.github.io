@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<%@ Master Language="C#" %>
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head runat="server">
+<meta http-equiv="Content-Language" content="zh-cn" />
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>论文模板</title>
+<asp:ContentPlaceHolder id="head" runat="server">
+</asp:ContentPlaceHolder>
+<style type="text/css">
+.style3 {
+	background-color: #66FFFF;
+}
+.style4 {
+	text-align: center;
+	font-size: large;
+	color: #0000FF;
+	background-color: #D9A062;
+}
+.style5 {
+	font-size: xx-large;
+	font-family: 黑体;
+	color: #FFFFFF;
+}
+</style>
+</head>
+
+<body style="background-color: #33CC33">
+
+<table style="width: 888px" class="style3" align="center">
+	<tr>
+		<td>
+		<div style="position: absolute; width: 68px; height: 70px; z-index: 1; left: 228px; top: 47px" id="layer1" class="style5">
+			正君<br />
+			之教</div>
+		<img src="sun.jpg" width="888" height="125" /></td>
+	</tr>
+	<tr>
+		<td><br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		</td>
+	</tr>
+	<tr>
+		<td class="style4">个人观点，欢迎斧正<br />
+		zjchen@shenzhong.net</td>
+	</tr>
+</table>
+
+</body>
+
+</html>
